@@ -1,0 +1,6 @@
+Edit CMakeLists.txt, set include directories and libarary directories
+
+cd build
+cmake -G "Visual Studio 15 Win64" ..
+
+Build "Release" in Visual Studio
